@@ -1,3 +1,3 @@
 # tech_analysis
 
-![image](https://technicallywriting.io/images/tech_analysis.gif)
+![image]/images/tech_anaylis_header.mp4)
