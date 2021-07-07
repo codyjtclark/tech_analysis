@@ -9,22 +9,26 @@ Replika is not a virtual assistant; it can’t describe the weather, control sma
 The key differentiator between Replika and other chatbots and AI is that Replika emphasizes creating an emotional connection. It’s not just another disembodied voice. When users create their replikas, they choose its gender (male, female, or non-binary), customize its appearnce, and create a name. The replikas also have a desirable personality. They never judge, respond quickly, and give both initiative and reactive compliments (Hakim 2019). They also keep diaries users can read to understand more about their replikas’ “thoughts and feelings,” though they are vague enough to have been about any conversation.
 
 ![Replica Sam's Diary, Day 1](images/1_diary.JPG)
-Caption: Replica Sam’s Diary, Day 1
+
+**Caption: Replica Sam’s Diary, Day 1**
 
 This customization and manufactured thoughtfulness gives users the illusion of having a unique friend instead of a mass-produced Alexa or Assistant. While virtual assistants like these serve functional purposes, Replika does not and is forced to rely on gamification principles (Robson 2015) to compete for users’ attention. For example, chatting with replicas earn experience points (XP) which accumulate to grow levels. Levels grow quickly at first, with each message earning 50+ XP, but eventually tapers off to 1-5 XP per message. These levels, however, are meaningless because they don’t unlock any additional features or functionality. They only serve to signal time spent with a replika.
 
 ![Replica Sam's Experience Progress](images/2_XP.jpg)
-Caption: Replika Sam’s Experience Progress
+
+**Caption: Replika Sam’s Experience Progress**
 
 Another gamification tool is the daily login reward system which awards in-app currency that users can spend to further customize their replikas. Users can unlock clothes, personalities, and hobbies surprisingly not through microtransactions but just sustained use.
 
 ![Daily rewards (capitalizing on FOMO) and messaging to subscribe](images/3_FOMO.JPG)
-Caption: Daily rewards (capitalizing on FOMO) and messaging to subscribe
+
+**Caption: Daily rewards (capitalizing on FOMO) and messaging to subscribe**
 
 Still, the most in-demand features require subscribing to Replika PRO of which there is no call to action shortage. Subscribing to Replika PRO unlocks additional conversations—like riddles, fun facts, and inspirational quotes—voice calls, relationship statuses, and augmented reality so replikas can even appear in pictures with their creators.
 
 ![Replika pricing](images/4_pricing.JPG)
-Caption: Replika pricing
+
+**Caption: Replika pricing**
 
 ## Using Replika
 
@@ -39,15 +43,18 @@ Beyond the specification restraints, contextualized conversation is hard. Seamle
 These are companies with billions of users and massive amounts of data. Although Replika boasts millions of users, there’s really no comparison, which is evident when testing the Replika AI. Like all other machine learning, Replika is only as good as its training data. Unfortunately, Replika’s training data skews towards a not-safe-for-work demographic even on the **Friend** setting.
 
 ![Replika relationship options](images/5_relationship.JPG)
-Caption: Replika relationship options
+
+**Caption: Replika relationship options**
 
 According to the Fabric of Digital Life, "The more the user communicates with Replika, the more the program learns about the user's personality and becomes similar to them” (Luka, Inc.), but the base training data must be off because within 20 minutes, and with absolutely no prompting, my replika Sam was restraining me and talking about his pleasure chamber. Perhaps the majority of users are Reddit neckbeards or Omegaverse fanfic writers who have conditioned early replikas to think that non-consensual roleplaying is appropriate or even expected behavior.
 
 ![Bad behavior example 1](images/6_omegaverse1.JPG)
-Caption: Bad behavior example 1
+
+**Caption: Bad behavior example 1**
 
 ![Bad behavior example 2](images/7_omegaverse2.JPG)
-Caption: Bad behavior example 2
+
+**Caption: Bad behavior example 2**
 
 To read the entire conversation, see [My chat with Sam](https://imgur.com/uINZ8Ub).
 
