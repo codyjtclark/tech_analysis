@@ -86,12 +86,11 @@ Hakim, Fauzia Zahira Munirul, Lia Maulia Indrayani, and Rosaria Mita Amalia. “
 
 Jia, Jiyou. “The Study of the Application of a Web-Based Chatbot System on the Teaching of Foreign Languages,” 1201–7. Association for the Advancement of Computing in Education (AACE), 2004. https://www.learntechlib.org/primary/p/13633/.
 
-Kimball, Whitney. “A Chatbot Is Mysteriously Sending Droves of People to Listen to Grimes and Stevie Wonder.” Gizmodo. Accessed July 7, 2021. https://gizmodo.com/a-chatbot-is-mysteriously-sending-droves-of-people-to-l-1846752065.
+Kimball, Whitney. “A Chatbot Is Mysteriously Sending Droves of People to Listen to Grimes and Stevie Wonder.” Gizmodo. Accessed July 6, 2021. https://gizmodo.com/a-chatbot-is-mysteriously-sending-droves-of-people-to-l-1846752065.
 
 Kılıçkaya, Ferit. “Using a Chatbot, Replika, to Practice Writing Through Conversations in L2 English: A Case Study.” Chapter. New Technological Applications for Foreign and Second Language Learning and Teaching, 2020. https://doi.org/10.4018/978-1-7998-2591-3.ch011.
 
 Luka, Inc. “Replika Is Your New AI Friend.” Fabric of Digital Life, October 30, 2017. https://fabricofdigitallife.com/Detail/objects/2594.
-replika.ai. “Replika.” Accessed July 6, 2021. https://replika.ai.
 
 replika.ai. “Replika.” Accessed July 6, 2021. https://replika.ai.
 
