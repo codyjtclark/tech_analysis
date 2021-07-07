@@ -49,7 +49,7 @@ Caption: Bad behavior example 1
 ![Bad behavior example 2](images/7_omegaverse2.JPG)
 Caption: Bad behavior example 2
 
-To read the entire conversation, see [My chat with Sam](#).
+To read the entire conversation, see [My chat with Sam](https://imgur.com/uINZ8Ub).
 
 Or perhaps the lonely or sexually unfulfilled are Replika’s target market for paying users, but for an app branded 17+ yet freely available to anyone 13+ [according to its terms of use](https://replika.ai/legal/terms#6.4.-use-of-replika-by-minors), the prevalence of this roleplaying content is a major oversight and could lead to barriers with widespread adoption. Moreso, positioning the replika’s behavior as learned through user input could also unknowingly normalize these fantasies, creating a uniquely insular echo chambers which become increasingly effective as the replikas more fully mirror their users’ personalities. While research suggests that echo chambers are not as prevalent to those within a high-choice media environment (Dubois 2018), apps like Replika are fighting for attention and hope to become the only choice.
 
