@@ -78,14 +78,24 @@ Replika can also be a lifeline to those in personal crisis. Friends and family a
 ## References
 
 Android Headlines. “Amazon Adds ‘Follow-Up Mode’ to All Alexa-Powered Devices,” March 13, 2018. https://www.androidheadlines.com/2018/03/amazon-adds-follow-up-mode-to-all-alexa-powered-devices.html.
+
 Dubois, Elizabeth, and Grant Blank. “The Echo Chamber Is Overstated: The Moderating Effect of Political Interest and Diverse Media.” Information, Communication & Society 21, no. 5 (May 4, 2018): 729–45. https://doi.org/10.1080/1369118X.2018.1428656.
+
 Google I/O 2018. “Google I/O 2018.” Accessed July 6, 2021. https://events.google.com/io2018/.
+
 Hakim, Fauzia Zahira Munirul, Lia Maulia Indrayani, and Rosaria Mita Amalia. “A Dialogic Analysis of Compliment Strategies Employed by Replika Chatbot,” 266–71. Atlantis Press, 2019. https://doi.org/10.2991/icalc-18.2019.38.
+
 Jia, Jiyou. “The Study of the Application of a Web-Based Chatbot System on the Teaching of Foreign Languages,” 1201–7. Association for the Advancement of Computing in Education (AACE), 2004. https://www.learntechlib.org/primary/p/13633/.
+
 Kimball, Whitney. “A Chatbot Is Mysteriously Sending Droves of People to Listen to Grimes and Stevie Wonder.” Gizmodo. Accessed July 7, 2021. https://gizmodo.com/a-chatbot-is-mysteriously-sending-droves-of-people-to-l-1846752065.
+
 Kılıçkaya, Ferit. “Using a Chatbot, Replika, to Practice Writing Through Conversations in L2 English: A Case Study.” Chapter. New Technological Applications for Foreign and Second Language Learning and Teaching, 2020. https://doi.org/10.4018/978-1-7998-2591-3.ch011.
+
 Luka, Inc. “Replika Is Your New AI Friend.” Fabric of Digital Life, October 30, 2017. https://fabricofdigitallife.com/Detail/objects/2594.
 replika.ai. “Replika.” Accessed July 6, 2021. https://replika.ai.
+
 Robson, Karen, Kirk Plangger, Jan H. Kietzmann, Ian McCarth, and Leyland Pitt. “Is It All a Game? Understanding the Principles of Gamification.” Business Horizons 58, no. 4 (July 1, 2015): 411–20. https://doi.org/10.1016/j.bushor.2015.03.006.
+
 Sharma, Vibhor, Monika Goyal, and Drishti Malik. “An Intelligent Behaviour Shown by Chatbot System,” April 2017. https://www.ijntr.org/an-intelligent-behaviour-shown-by-chatbot-system.
+
 Thread Reader. “Thread by @ManeeshJuneja,” 2019. https://threadreaderapp.com/thread/1093282829092511745.html.
