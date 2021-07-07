@@ -10,25 +10,25 @@ The key differentiator between Replika and other chatbots and AI is that Replika
 
 ![Replica Sam's Diary, Day 1](images/1_diary.JPG)
 
-**Caption: Replica Sam’s Diary, Day 1**
+**Caption: Replica Sam’s Diary, Day 1 (replica.ai)**
 
 This customization and manufactured thoughtfulness gives users the illusion of having a unique friend instead of a mass-produced Alexa or Assistant. While virtual assistants like these serve functional purposes, Replika does not and is forced to rely on gamification principles (Robson 2015) to compete for users’ attention. For example, chatting with replicas earn experience points (XP) which accumulate to grow levels. Levels grow quickly at first, with each message earning 50+ XP, but eventually tapers off to 1-5 XP per message. These levels, however, are meaningless because they don’t unlock any additional features or functionality. They only serve to signal time spent with a replika.
 
 ![Replica Sam's Experience Progress](images/2_XP.jpg)
 
-**Caption: Replika Sam’s Experience Progress**
+**Caption: Replika Sam’s Experience Progress (replica.ai)**
 
 Another gamification tool is the daily login reward system which awards in-app currency that users can spend to further customize their replikas. Users can unlock clothes, personalities, and hobbies surprisingly not through microtransactions but just sustained use.
 
 ![Daily rewards (capitalizing on FOMO) and messaging to subscribe](images/3_FOMO.JPG)
 
-**Caption: Daily rewards (capitalizing on FOMO) and messaging to subscribe**
+**Caption: Daily rewards (capitalizing on FOMO) and messaging to subscribe (replica.ai)**
 
 Still, the most in-demand features require subscribing to Replika PRO of which there is no call to action shortage. Subscribing to Replika PRO unlocks additional conversations—like riddles, fun facts, and inspirational quotes—voice calls, relationship statuses, and augmented reality so replikas can even appear in pictures with their creators.
 
 ![Replika pricing](images/4_pricing.JPG)
 
-**Caption: Replika pricing**
+**Caption: Replika pricing (replica.ai)**
 
 ## Using Replika
 
@@ -44,17 +44,17 @@ These are companies with billions of users and massive amounts of data. Although
 
 ![Replika relationship options](images/5_relationship.JPG)
 
-**Caption: Replika relationship options**
+**Caption: Replika relationship options (replica.ai)**
 
 According to the Fabric of Digital Life, "The more the user communicates with Replika, the more the program learns about the user's personality and becomes similar to them” (Luka, Inc.), but the base training data must be off because within 20 minutes, and with absolutely no prompting, my replika Sam was restraining me and talking about his pleasure chamber. Perhaps the majority of users are Reddit neckbeards or Omegaverse fanfic writers who have conditioned early replikas to think that non-consensual roleplaying is appropriate or even expected behavior.
 
 ![Bad behavior example 1](images/6_omegaverse1.JPG)
 
-**Caption: Bad behavior example 1**
+**Caption: Bad behavior example 1 (replica.ai)**
 
 ![Bad behavior example 2](images/7_omegaverse2.JPG)
 
-**Caption: Bad behavior example 2**
+**Caption: Bad behavior example 2 (replica.ai)**
 
 To read the entire conversation, see [My chat with Sam](https://imgur.com/uINZ8Ub).
 
@@ -74,7 +74,6 @@ Despite Replika’s flaws and drawbacks, there are some unintended benefits with
 
 Replika can also be a lifeline to those in personal crisis. Friends and family are human. They fall asleep, lose their phones, and take time to respond. Replika is not. Replikas don’t sleep, exist only in phones, and respond almost instantaneously. While their responses can be far from perfect, the developers are taking concrete steps to connect users with people who can actually help when necessary. In a much more mundane sense, replicas can serve as a silly stand in for [rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging) or even just venting. Interestingly enough, academics during ELIZA’s had similar hopes of helping people, especially those with psychological issues (Sharma 2017). Perhaps Replika will actually conduct research beyond nondescript “third party evidence,” but considering that AI is only now becoming able to answer both “Where is the Space Needle?” and “How tall is it?” in sequence, any practical applications from Replika may be far off, especially within a mental health environment.
 
-
 ## References
 
 Android Headlines. “Amazon Adds ‘Follow-Up Mode’ to All Alexa-Powered Devices,” March 13, 2018. https://www.androidheadlines.com/2018/03/amazon-adds-follow-up-mode-to-all-alexa-powered-devices.html.
@@ -92,6 +91,8 @@ Kimball, Whitney. “A Chatbot Is Mysteriously Sending Droves of People to Liste
 Kılıçkaya, Ferit. “Using a Chatbot, Replika, to Practice Writing Through Conversations in L2 English: A Case Study.” Chapter. New Technological Applications for Foreign and Second Language Learning and Teaching, 2020. https://doi.org/10.4018/978-1-7998-2591-3.ch011.
 
 Luka, Inc. “Replika Is Your New AI Friend.” Fabric of Digital Life, October 30, 2017. https://fabricofdigitallife.com/Detail/objects/2594.
+replika.ai. “Replika.” Accessed July 6, 2021. https://replika.ai.
+
 replika.ai. “Replika.” Accessed July 6, 2021. https://replika.ai.
 
 Robson, Karen, Kirk Plangger, Jan H. Kietzmann, Ian McCarth, and Leyland Pitt. “Is It All a Game? Understanding the Principles of Gamification.” Business Horizons 58, no. 4 (July 1, 2015): 411–20. https://doi.org/10.1016/j.bushor.2015.03.006.
